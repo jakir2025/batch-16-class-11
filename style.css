@@ -1,0 +1,157 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.heading{
+    overflow: hidden;
+    width: 100%;
+    height: 39px;
+    background-color: #08f45e;
+   
+}
+.hero{
+    background-color: #f1ede7;
+    float: left;
+    height: 130px;
+    width: 20%;
+    padding-left: 10px;
+    padding-top: 20px;
+   text-align: center;
+    
+}
+.SUNIA1{
+    font-size: 20px;
+    color: black;
+    padding-right: 100px;
+}
+.home1{
+    float: left;
+    padding-top: 50px;
+    padding-left: 371.3px;
+    background-color: #f1ede7;
+    height: 130px;
+
+}
+.about1{
+    float: left;
+    padding-top: 50px;
+    padding-left: 50px;
+    height: 130px;
+    background-color: #f1ede7;
+}
+.menu1{
+    float: left;
+    padding-top: 50px;
+    padding-left: 50px;
+    background-color: #f1ede7;
+    height: 130px;
+}
+.portfolio1{
+    float: left;
+    padding-top: 50px;
+    padding-left: 50px;
+    background-color: #f1ede7;
+    height: 130px;
+}
+.NEWS1{
+    float: left;
+    padding-top: 50px;
+    padding-left: 50px;
+    background-color: #f1ede7;
+    height: 130px;
+}
+.CONTACTS1{
+    float: left;
+    padding-top: 50px;
+    padding-left: 50px;
+   
+    background-color: #f1ede7;
+    height: 130px;
+}
+
+
+.img11{
+    overflow: hidden;
+   width: 100%;
+}
+
+.project{
+    overflow: hidden;
+    width: 100%;
+   margin-top: 50px;
+   margin-left: 90px;
+    
+   
+   
+}
+
+
+.Welcome1{
+  float: left;
+  height: 200px;
+  padding-left: 90px;
+}
+.Welcome2{
+    font-size: 20px;
+   
+}
+.images1{
+    border-radius: 50%;
+   
+    
+}
+.button1{
+    float: left;
+    padding-left: 50px;
+    font-size:15px;
+    margin-top: 55px;
+    color: #9fb1cb;
+    
+}
+
+.Features1111{
+    float: left;
+    padding-left: 50px;
+    font-size: 15px;
+    padding-top: 15px;
+}
+/* ==============4 no section============= */
+.Best11{
+    overflow: hidden;
+    width: 100%;
+}
+.nature1{
+    margin-left: 90px;
+    margin-top: 25px;
+}
+.best-choice1{
+    float: left;
+    margin-left: 90px;
+  /* background-color: aqua;
+  border: 1px solid black; */
+}
+.lorem1{
+    font-size: 10px;
+}
+
+/* ==============5 no section============= */
+
+.Follow1{
+    overflow: hidden;
+    width: 100%;
+}
+.Follow12{
+    float: left;
+    margin-top: 30px;
+    margin-left: 176px;
+    font-size: 10px;
+}
+.email1{
+    float: left;
+    margin-top: 30px;
+    margin-left: 356px;
+    font-size: 10px
+}
+
+
